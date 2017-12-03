@@ -1,0 +1,68 @@
+body {
+ 	background-image: url(w3s.png);
+ }
+ .a {
+ 	background-color: red;
+ }
+ .b {
+ 	background-color: orange;
+ }
+  .c {
+ 	background-color: yellow;
+ }
+  .d {
+ 	background-color: green;
+ }
+  .e {
+ 	background-color: blue;
+ }
+  .f {
+ 	background-color: grey;
+ }
+  .g {
+ 	background-color: pink;
+ }
+  .h {
+ 	background-color: white;
+ }
+  .i {
+ 	background-color: brown;
+ }
+  .j {
+ 	background-color: red;
+ }
+  .k {
+ 	background-color: green;
+ }
+  .l {
+ 	background-color: yellow;
+ }
+ a:hover {
+ 		color:green;
+ }
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+p {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+}
+h2 {
+	width: 400px;
+	height: 100px;
+}
+.img12 {
+	padding-top: 70px;
+	padding-left: 100px;
+}
+h1 {
+	float: right;
+	color: orange;
+}
+ol {
+list-style-type: upper-alpha;
+}
+table, th, td {
+   border: 1px solid black;
+}
